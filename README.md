@@ -7,7 +7,7 @@ This is a web-based application developed for education facilities in India. ###
 
 Azure Technologies used for project😀😀 --Static web apps --Health bot
 
-Features and Functionalities:😊😊 -It's a very humanfriendly website -Has many graphical and visual innovative effects -Have an aesthetical vision if website -And it has different collections embedded in it like home,about,services,contact,healthbot -provided with several education
+Features and Functionalities:😊😊 -It's a very informative website -Has many graphical and visual innovative effects -Have an wonderful vision of website -And it has different collections embedded in it like home,about,services,contact,healthbot -provided with several education
 #home 
 ![home](https://github.com/neelimapukkalla/education/assets/113762573/eab69e60-b0e5-47ae-8c00-990b42ede40a)
 
@@ -22,3 +22,5 @@ Features and Functionalities:😊😊 -It's a very humanfriendly website -Has ma
 
 #healthbot
 ![healthbot](https://github.com/neelimapukkalla/education/assets/113762573/ffc41037-486f-4801-af83-0e820f191258)
+
+other technologies used:HTML,CSS,JAVASCRIPT
