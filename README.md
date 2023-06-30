@@ -3,7 +3,8 @@ EducationProject👨‍💻👨‍💻
 
 This is a web-based application developed for education facilities in India. ###This web-based education application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-**PROJECT LINK **-- https://agreeable-tree-0a4150d00.3.azurestaticapps.net Video Link--
+**PROJECT LINK **-- https://agreeable-tree-0a4150d00.3.azurestaticapps.net 
+Video Link--https://youtu.be/y6g4AfxGIv8
 
 Azure Technologies used for project😀😀 --Static web apps --Health bot
 
