@@ -24,4 +24,4 @@ Features and Functionalities:😊😊 -It's a very informative website -Has many
 #healthbot
 ![healthbot](https://github.com/neelimapukkalla/education/assets/113762573/ffc41037-486f-4801-af83-0e820f191258)
 
-other technologies used:HTML,CSS,JAVASCRIPT
+other technologies used: HTML,CSS, JAVASCRIPT
